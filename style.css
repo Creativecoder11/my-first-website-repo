@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color: black;
+    color: azure;
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 20px ;
+}
